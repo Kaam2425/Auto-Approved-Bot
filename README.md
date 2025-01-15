@@ -49,58 +49,31 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 <p align="center">
 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 𝗜𝗻 𝗥𝗮𝗶𝗹𝘄𝗮𝘆 🤔
 </p>
-
-<p align="center">
-<a href="https://youtu.be/fRPK5ykcNjU"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/fRPK5ykcNjU"><img src="https://img.shields.io/youtube/views/fRPK5ykcNjU?style=social"></a>
-</p>
-<p align="center">
-<a href="https://youtu.be/D5EWDxOCdLI"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/D5EWDxOCdLI"><img src="https://img.shields.io/youtube/views/D5EWDxOCdLI?style=social"></a>
-</p>
-
 <p align="center">
 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱 📍
 </p>
 <p align="center">
-<b>API_ID</b> <a href="https://youtu.be/5eEsvLAKVc0">Click Here</a>
+<b>API_ID</b> <a href="">Click Here</a>
 </p>
 <p align="center">
-<b>API_HASH</b> <a href="https://youtu.be/5eEsvLAKVc0">Click Here</a>
+<b>API_HASH</b> <a href="">Click Here</a>
 </p>
 <p align="center">
-<b>BOT_TOKEN</b> <a href="https://youtu.be/cB4UduCcNWs">Click Here</a>
+<b>BOT_TOKEN</b> <a href=">Click Here</a>
 </p>
 <p align="center">
 <b>CHAT_ID</b> <a href="https://telegram.dog/MT_ID_BOT">Click Here</a> Group ID
 </p>
 <p align="center">
-<b>APPROVED_WELCOME</b> <a href="https://youtu.be/cB4UduCcNWs">On Or Off Approved Welcome Text</a>
+<b>APPROVED_WELCOME</b> <a href=">On Or Off Approved Welcome Text</a>
 </p>
 <p align="center">
-<b>APPROVED_WELCOME_TEXT</b> <a href="https://youtu.be/cB4UduCcNWs">Approved Welcome Text</a>
-</p>
-
-<p align="center">
-😎 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 😎
-</p>
-<p align="center">
-<a href="https://youtu.be/Af055Eozk9s">Pyrogram</a>
-</p>
-<p align="center">
-<a href="https://youtu.be/Af055Eozk9s">Muhammed</a>
-</p>
-<p align="center">
-<a href="https://github.com/PR0FESS0R-99/Auto-Approved-Bot">Orginal Repo</a>
-</p>
-
-
-
+<b>APPROVED_WELCOME_TEXT</b> <a ">Approved Welcome Text</a>
 <p align="center">
 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
 </p>
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/Auto-Approved-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/aura/Auto-Approved-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 
 <p align="center">
